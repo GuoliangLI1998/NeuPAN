@@ -4,8 +4,6 @@
 
 ![](./img/fig2.png)
 
-![](./Architecture.png)
-
 ## Code
 Our paper is currently under review. The code will be released upon acceptance.
 
